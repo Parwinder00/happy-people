@@ -1,5 +1,5 @@
-int age=179;
-int age=186;
+int age=17944414;
+int age=186222;
 if(age>3){
 print("Git")
 }
